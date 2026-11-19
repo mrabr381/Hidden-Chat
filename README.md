@@ -49,8 +49,8 @@ To run or deploy **Hidden Chat**, you only need:
 ## ⚡ Quick Clone & Run Locally
 
 ```bash
-git clone https://github.com/mrabr381/hidden-chat.git
-cd hidden-chat
+git clone https://github.com/mrabr381/Hidden-Chat-.git
+cd Hidden-Chat-
 # Open index.html directly in your browser or serve locally:
 npx serve .
 ```
@@ -129,7 +129,7 @@ In the Firebase Console, open **Realtime Database > Rules**, paste the contents 
 Live Demo Reference: [https://hidden-chaat.netlify.app/](https://hidden-chaat.netlify.app/)
 
 1. **Via GitHub Integration:**
-   - Push this repository (`https://github.com/mrabr381/hidden-chat`) to your GitHub account.
+   - Push this repository (`https://github.com/mrabr381/Hidden-Chat-`) to your GitHub account.
    - Log in to [Netlify](https://app.netlify.com/), click **Add new site > Import an existing project**, and select your GitHub repository.
    - Leave the build command blank, set the publish directory to `.` (root), and click **Deploy site**. (`netlify.toml` automatically configures all production security headers!).
 2. **Via Netlify Drop (10 Seconds, No CLI):**
@@ -148,10 +148,10 @@ Live Demo Reference: [https://hidden-chaat.netlify.app/](https://hidden-chaat.ne
    ```
 
 ### Option 3: Deploy on GitHub Pages
-1. Push these files to your GitHub repository (`https://github.com/mrabr381/hidden-chat`).
+1. Push these files to your GitHub repository (`https://github.com/mrabr381/Hidden-Chat-`).
 2. Go to **Settings > Pages** in your GitHub repo.
-3. Under **Build and deployment**, select **Deploy from a branch**, choose `main` (and `/ (root)`), and click **Save**.
-4. Your site will be live at `https://mrabr381.github.io/hidden-chat/`.
+3. Under **Build and deployment**, select **Deploy from a branch**, choose `main` (and `/ (root)`), and click **Save**. (Note: Pages is not enabled on this repo yet — until it is, the URL below returns 404.)
+4. Your site will be live at `https://mrabr381.github.io/Hidden-Chat-/`.
 
 ---
 
