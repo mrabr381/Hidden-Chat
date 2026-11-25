@@ -1,10 +1,15 @@
 ![Hidden Chat](assets/hero.svg)
+[![GitHub stars](https://img.shields.io/github/stars/mrabr381/Hidden-Chat-?style=social)](https://github.com/mrabr381/Hidden-Chat-) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muhammadabubakar)
 
 # 🕵️ Hidden Chat
 
 Send secret messages hidden inside ordinary emojis and photos.
 
 🌐 **Live site:** [https://hidden-chaat.netlify.app/](https://hidden-chaat.netlify.app/)
+
+![Live demo — the Hidden Chat live stego chat](assets/screenshot.png)
+
+*Screenshot of the live site — the stego chat room with encrypted messages hidden inside innocent cover phrases.*
 
 **Hidden Chat** is a privacy-first, real-time messenger and steganography studio by [**@mrabr381**](https://github.com/mrabr381). It hides password-encrypted messages, original-quality photos, voice notes, and secret documents inside ordinary emojis and casual everyday phrases (zero-width carriers) or inside image pixels, and lets you chat in real time inside zero-metadata hashed rooms.
 
